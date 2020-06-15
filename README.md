@@ -4,4 +4,4 @@ This is the GitHub landing page for my GitHub persona (@jwargo); you can find my
 
 I'm one of the PMs on the GitHub Content Platform (how/where we publish product docs).
 
-![me](images/jmw-avatar.png)
+<!-- ![me](images/jmw-avatar.png) -->
