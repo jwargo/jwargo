@@ -1,4 +1,4 @@
-![my face](images/jmw-avatar.png)
+![my face](jmw-avatar.png)
 
 # John M. Wargo
 
