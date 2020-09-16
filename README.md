@@ -1,5 +1,3 @@
-![Avatar](https://github.com/jwargo/jwargo/blob/master/images/jmw-avatar.png)
-
 # About Me
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/?username=jwargo"/>
