@@ -14,14 +14,7 @@ I'm currently a Product Manager at [OutSystems](https://outsystems.com) working 
 
 I love tinkering with IoT, building and writing about projects for Arduino, Particle Photon, Raspberry Pi, and more.
 
-What you'll find here is the following:
-
-* Source code for each of my technology books.
-* Source code supporting many of my blog posts or published articles.
-* Projects for Arduino (including its variants like Adafruit Feather, ESP32, M5Stack, Particle Photon, etc.), Raspberry Pi, Tessell 2, and whatever else I can get my hands on.
-* Follow-along source code for my public presentations.
-* Source code for the [`npm` modules](https://www.npmjs.com/settings/johnwargo/packages) I published.
-* Source code for some little Delphi utilities I created.
+What you'll find here is any repositories I publish through my day job. This is usually sample applications, conference presentations, and so on.
 
 📫 How to reach me:
 
